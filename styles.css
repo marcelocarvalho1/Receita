@@ -1,17 +1,32 @@
-body{
-    background-image: url(/assets/bg-image.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
+:root {
+  font-family: "Alice", serif;
+  line-height: 150%;
 }
 
-#page{
-    box-sizing: border-box;
-    width: 800px;
-    padding: 24px;
-    background-color: #F0E8C2;
-    border-radius: 24px;
-    margin: 24px auto;
+body {
+  background-image: url(/assets/bg-image.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
-img{
 
+#page {
+  box-sizing: border-box;
+  width: 800px;
+  padding: 24px;
+  background-color: #f0e8c2;
+  border-radius: 24px;
+  margin: 24px auto;
 }
+h1 {
+  line-height: 150%;
+  font-size: 40px;
+  color: #291b1a;
+}
+h2 {
+  font-size: 24px;
+  color: #291b1a;
+}
+p, ul {
+  color: #573a37;
+}
+
