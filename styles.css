@@ -73,11 +73,6 @@ ul {
   padding-left: 24px;
 }
 
-footer {
-  color: #f0e8c2;
-  text-align: center;
-  padding: 24px;
-}
 
 footer img {
   vertical-align: middle;
@@ -106,9 +101,5 @@ footer img {
 
   ul {
     padding-left: 16px;
-  }
-
-  footer {
-    padding-bottom: 16px;
   }
 }
